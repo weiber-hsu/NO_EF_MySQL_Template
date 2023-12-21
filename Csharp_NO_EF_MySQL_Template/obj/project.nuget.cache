@@ -1,0 +1,15 @@
+{
+  "version": 2,
+  "dgSpecHash": "Q/rQ3htxcwS2AT1mkjLUCLrj2Q/Ybx79MgBu6gauqplyR8/O/3wOnjiWGyQ6+MySyFZl3wW9yuQtNjyzj672Iw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\weber.hsu53\\Desktop\\template\\Csharp_NO_EF_MySQL_Template\\Csharp_NO_EF_MySQL_Template\\Csharp_NO_EF_MySQL_Template.csproj",
+  "expectedPackageFiles": [],
+  "logs": [
+    {
+      "code": "NU1803",
+      "level": "Warning",
+      "warningLevel": 1,
+      "message": "You are running the 'restore' operation with an 'HTTP' source, 'http://nuget.coreop.net/nuget'. Non-HTTPS access will be removed in a future version. Consider migrating to an 'HTTPS' source."
+    }
+  ]
+}
